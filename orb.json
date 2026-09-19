@@ -507,15 +507,92 @@
   ],
   "readingImages": [
     {
-      "src": "https://orbiversity.com/us250-philadelphia/photo.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Independece_hall.jpg",
+      "node": "us250-philadelphia-p01",
+      "title": "The Delaware River at Philadelphia",
+      "caption": "Looking west from Camden toward Philadelphia, April 2025. A present-day view of the river landscape; it does not reconstruct Lenape settlements.",
+      "source": "https://commons.wikimedia.org/wiki/File:2025-04-12_10_16_27_View_west_across_the_Delaware_River_towards_Center_City_Philadelphia_from_the_Camden_Waterfront_in_Camden,_Camden_County,_New_Jersey.jpg",
+      "credit": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "generated": false,
+      "src": "https://orbiversity.com/orb-archive/point-media-us250-philadelphia-p01.jpg"
+    },
+    {
+      "node": "us250-philadelphia-p02",
       "title": "Independence Hall — historic postcard",
-      "caption": "Historic Independence Hall postcard; date not recorded. This is not a view of Philadelphia in 1776.",
+      "caption": "Historic postcard of Independence Hall; date not recorded. This later depiction is not a view of the Declaration’s adoption in 1776.",
+      "source": "https://commons.wikimedia.org/wiki/File:Independece_hall.jpg",
       "credit": "Sabold-Herb Co.",
       "license": "Public domain",
       "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "node": "us250-philadelphia-p02",
-      "generated": false
+      "generated": false,
+      "src": "https://orbiversity.com/orb-archive/point-media-us250-philadelphia-p02.jpg"
+    },
+    {
+      "node": "us250-philadelphia-p03",
+      "title": "The Constitution — first page",
+      "caption": "First page of the Constitution of the United States, signed in 1787. The document supplies the visual evidence for this reading about governmental structure.",
+      "source": "https://commons.wikimedia.org/wiki/File:Constitution_of_the_United_States_-_DPLA_-_9ca804144bd5965e992ae3528bc3c6a3_(page_1).jpg",
+      "credit": "Constitutional Convention",
+      "license": "Public domain",
+      "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "generated": false,
+      "src": "https://orbiversity.com/orb-archive/point-media-us250-philadelphia-p03.jpg"
+    },
+    {
+      "node": "us250-philadelphia-p04",
+      "title": "The President’s House — memorial to the enslaved",
+      "caption": "The Memorial to the Enslaved at the President’s House site, photographed in June 2022. A place of remembrance connected to Ona Judge’s story, not a portrait of her.",
+      "source": "https://commons.wikimedia.org/wiki/File:Presidents_House_Site_-_Enslaved_Memorial_2022-06_(4).jpg",
+      "credit": "Kreuz und quer",
+      "license": "CC0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "generated": false,
+      "src": "https://orbiversity.com/orb-archive/point-media-us250-philadelphia-p04.jpg"
+    },
+    {
+      "node": "us250-philadelphia-p05",
+      "title": "Mother Bethel A.M.E. Church",
+      "caption": "The surviving Mother Bethel church, photographed in 2014. This is a later building in the congregation’s history, not its original converted blacksmith’s shop.",
+      "source": "https://commons.wikimedia.org/wiki/File:Mother_Bethel_Philly_a.JPG",
+      "credit": "Smallbones",
+      "license": "CC0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "generated": false,
+      "src": "https://orbiversity.com/orb-archive/point-media-us250-philadelphia-p05.jpg"
+    },
+    {
+      "node": "us250-philadelphia-p06",
+      "title": "The Centennial Exhibition opens",
+      "caption": "Published illustration of opening-day ceremonies at Philadelphia’s Centennial Exhibition, May 10, 1876. Historical artwork rather than a photograph.",
+      "source": "https://commons.wikimedia.org/wiki/File:Centennial_Exhibition,_Opening_Day.jpg",
+      "credit": "James D. McCabe",
+      "license": "Public domain",
+      "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "generated": false,
+      "src": "https://orbiversity.com/orb-archive/point-media-us250-philadelphia-p06.jpg"
+    },
+    {
+      "node": "us250-philadelphia-p07",
+      "title": "Independence Hall’s tower",
+      "caption": "The tower of Independence Hall viewed from the south in 2017. Its appearance provides a starting point for examining alteration and restoration.",
+      "source": "https://commons.wikimedia.org/wiki/File:Independence_Hall,_Independence_National_Historical_Park,_Philadelphia_PA.jpg",
+      "credit": "Julie B. Shepard (Ladycrim)",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "generated": false,
+      "src": "https://orbiversity.com/orb-archive/point-media-us250-philadelphia-p07.jpg"
+    },
+    {
+      "node": "us250-philadelphia-p08",
+      "title": "The Liberty Bell and national memory",
+      "caption": "The Liberty Bell displayed across from Independence Hall, October 2016. A present-day symbol for the reading’s question about what an anniversary should remember.",
+      "source": "https://commons.wikimedia.org/wiki/File:Liberty_Bell,_2016.jpg",
+      "credit": "Phil Roeder",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "generated": false,
+      "src": "https://orbiversity.com/orb-archive/point-media-us250-philadelphia-p08.jpg"
     }
   ]
 }
