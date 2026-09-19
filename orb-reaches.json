@@ -1,4 +1,51 @@
 {
   "schemaVersion": 1,
-  "reaches": []
+  "reaches": [
+    {
+      "sourcePoint": {
+        "id": "us250-philadelphia-p06",
+        "title": "A nation stages its hundredth birthday"
+      },
+      "target": {
+        "id": "us250-detroit",
+        "url": "https://orbiversity.com/us250-detroit/",
+        "topic": "Detroit — Making things, making music, remaking a city"
+      },
+      "relation": "comparison",
+      "reason": "Compare the Centennial Exhibition’s national showcase with Rivera’s industrial mural. These are different ways of presenting work, not a claim of direct influence.",
+      "evidence": [
+        {
+          "url": "https://www.loc.gov/free-to-use/centennial-exposition-1876/",
+          "title": "Centennial Exposition, 1876"
+        },
+        {
+          "url": "https://dia.org/riveracourt",
+          "title": "Rivera Court"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "us250-philadelphia-p07",
+        "title": "Which parts of a landmark are old?"
+      },
+      "target": {
+        "id": "us250-detroit",
+        "url": "https://orbiversity.com/us250-detroit/",
+        "topic": "Detroit — Making things, making music, remaking a city"
+      },
+      "relation": "comparison",
+      "reason": "Compare the conservation of Independence Hall with the reuse of Michigan Central. Both invite questions about what is retained, replaced and made useful again.",
+      "evidence": [
+        {
+          "url": "https://www.nps.gov/inde/learn/historyculture/places-independencehall-architecture.htm",
+          "title": "Independence Hall: Architecture"
+        },
+        {
+          "url": "https://michigancentral.com/a-new-beginning-ford-to-reopen-michigan-central-station-after-multi-year-historic-restoration/",
+          "title": "A New Beginning: Ford to Reopen Michigan Central Station"
+        }
+      ]
+    }
+  ]
 }
