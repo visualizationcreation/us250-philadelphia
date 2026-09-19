@@ -1,0 +1,180 @@
+{
+  "id": "us250-philadelphia",
+  "title": "Philadelphia — Founding ideas and the people who widened them",
+  "summary": "A city of public promises and persistent questions. Follow the Declaration, Ona Judge, Mother Bethel and the making of national memory through eight connected readings.",
+  "collection": "America at 250 — Four Cities, Many Stories",
+  "pointCount": 8,
+  "language": "en",
+  "canonical": null,
+  "publicationStatus": "prepared",
+  "idMapping": [
+    {
+      "draftId": "us250-philadelphia.p01",
+      "id": "us250-philadelphia-p01"
+    },
+    {
+      "draftId": "us250-philadelphia.p02",
+      "id": "us250-philadelphia-p02"
+    },
+    {
+      "draftId": "us250-philadelphia.p03",
+      "id": "us250-philadelphia-p03"
+    },
+    {
+      "draftId": "us250-philadelphia.p04",
+      "id": "us250-philadelphia-p04"
+    },
+    {
+      "draftId": "us250-philadelphia.p05",
+      "id": "us250-philadelphia-p05"
+    },
+    {
+      "draftId": "us250-philadelphia.p06",
+      "id": "us250-philadelphia-p06"
+    },
+    {
+      "draftId": "us250-philadelphia.p07",
+      "id": "us250-philadelphia-p07"
+    },
+    {
+      "draftId": "us250-philadelphia.p08",
+      "id": "us250-philadelphia-p08"
+    }
+  ],
+  "sourceRegister": [
+    {
+      "id": "lenape",
+      "title": "About Us",
+      "publisher": "Delaware Tribe of Indians",
+      "url": "https://delawaretribe.org/about-us/",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "philly-land",
+      "title": "Delaware Indian Villages at Philadelphia",
+      "publisher": "Delaware Tribe of Indians — hosted historical study",
+      "url": "https://delawaretribe.org/wp-content/uploads/IndVillagesPhilly-Wes2.pdf",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "declaration",
+      "title": "Declaration of Independence (1776)",
+      "publisher": "National Archives",
+      "url": "https://www.archives.gov/milestone-documents/declaration-of-independence",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "constitution",
+      "title": "Constitution of the United States (1787)",
+      "publisher": "National Archives",
+      "url": "https://www.archives.gov/milestone-documents/constitution",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "ona",
+      "title": "Ona Judge Escapes to Freedom",
+      "publisher": "National Park Service",
+      "url": "https://home.nps.gov/articles/independence-oneyjudge.htm",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "bethel",
+      "title": "Mother Bethel: The Four Churches",
+      "publisher": "Mother Bethel AME Church",
+      "url": "https://motherbethel.org/mother-bethel-the-four-churches/",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "sarah",
+      "title": "Sarah Allen, 1849",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/articles/000/inde-sarah-allen-1849.htm",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "centennial",
+      "title": "Centennial Exposition, 1876",
+      "publisher": "Library of Congress",
+      "url": "https://www.loc.gov/free-to-use/centennial-exposition-1876/",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "hall",
+      "title": "Independence Hall: Architecture",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/inde/learn/historyculture/places-independencehall-architecture.htm",
+      "accessedAt": "2026-09-19"
+    }
+  ],
+  "sourcePointAssignments": [
+    {
+      "id": "us250-philadelphia-p01",
+      "sourceIds": [
+        "lenape",
+        "philly-land"
+      ]
+    },
+    {
+      "id": "us250-philadelphia-p02",
+      "sourceIds": [
+        "declaration"
+      ]
+    },
+    {
+      "id": "us250-philadelphia-p03",
+      "sourceIds": [
+        "constitution"
+      ]
+    },
+    {
+      "id": "us250-philadelphia-p04",
+      "sourceIds": [
+        "ona"
+      ]
+    },
+    {
+      "id": "us250-philadelphia-p05",
+      "sourceIds": [
+        "bethel",
+        "sarah"
+      ]
+    },
+    {
+      "id": "us250-philadelphia-p06",
+      "sourceIds": [
+        "centennial"
+      ]
+    },
+    {
+      "id": "us250-philadelphia-p07",
+      "sourceIds": [
+        "hall"
+      ]
+    },
+    {
+      "id": "us250-philadelphia-p08",
+      "sourceIds": [
+        "declaration",
+        "centennial"
+      ]
+    }
+  ],
+  "authorship": "Original text authored with Codex for the owner; anonymous public credit.",
+  "media": {
+    "included": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Independece_hall.jpg/960px-Independece_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Independece_hall.jpg",
+        "title": "A image of Independence hall in Philadelphia from an old postcard",
+        "caption": "Historic Independence Hall postcard; date not recorded. This is not a view of Philadelphia in 1776.",
+        "credit": "Sabold-Herb Co.",
+        "license": "Public domain",
+        "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "node": "us250-philadelphia-p02",
+        "generated": false
+      }
+    ],
+    "generated": [],
+    "note": "One credited documentary image. No narration or video was supplied."
+  }
+}
